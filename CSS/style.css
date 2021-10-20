@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+body{
+    margin-left: 20px;
+}
+
+p{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.form{
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#name{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 70%;
+    padding: 5px;
+}
+
+#gender{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 10px;
+}
+
+#Cweight{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 70%;
+    padding: 5px;
+}
+
+#Dweight{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 70%;
+    padding: 5px;
+}
+
+#height{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 70%;
+    padding: 5px;
+}
+
+#adress{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 70%;
+    padding: 5px;
+}
+
+#email{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 70%;
+    padding: 5px;
+}
+
+#phone{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 70%;
+    padding: 5px;
+}
+
+#q1{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 10px;
+}
+
+#q2{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 10px;
+}
+
+#comment{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 70%;
+    height: 80px;
+    padding: 5px;
+}
+
+.applybtn{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 10px;
+    padding: 10px 25px 10px 25px;
+    font-size: 20px;
+    background-color: rgb(31, 83, 133);
+    color: white;
+    font-family: fantasy;
+}
